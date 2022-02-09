@@ -26,31 +26,31 @@ Entre no [M.A.P.A](https://linktr.ee/TheBrosMech/)
 
 ## Áreas de Atuação 
 
-Instalações Industriais, Prediais e de Máquinas; 
+1. Instalações Industriais, Prediais e de Máquinas; 
 
-Prevenção e Combate ao Incêndio; 
+2. Prevenção e Combate ao Incêndio; 
 
-Gestão comercial e logistica de suply chain;
+3. Gestão comercial e logistica de suply chain;
  
-Emissão de Laudos Técnicos e ART;
+4. Emissão de Laudos Técnicos e ART;
 
-Processos Licitatórios.
+5. Processos Licitatórios.
 
 ## Serviços 
 
-RESPONSABILIDADE TÉCNICA 
+### RESPONSABILIDADE TÉCNICA 
 
 - EMPRESARIAL
 - DESMANCHE
 
-CONSULTORIA E ASSESSORIA
+### CONSULTORIA E ASSESSORIA
 
 - PPCI - PROJETO PREVENTIVO CONTRA INCENDIO
 - LICITAÇÕES PÚBLICAS E PREGÕES
 
-PERÍCIAS & ASSISTENTE TÉCNICO JUDICIAL
+### PERÍCIAS & ASSISTENTE TÉCNICO JUDICIAL
 
-LAUDO TÉCNICO E PLANO DE MANUTENÇÃO COM EMISSÃO DE ART
+### LAUDO TÉCNICO E PLANO DE MANUTENÇÃO COM EMISSÃO DE ART
 
 - PMOC - PLANO MANUTENÇÃO OPERAÇAO E CONTROLE
 - MÁQUINAS PESADAS
@@ -58,7 +58,7 @@ LAUDO TÉCNICO E PLANO DE MANUTENÇÃO COM EMISSÃO DE ART
 - DUTOS E TUBULAÇOES HIDRAULICAS  
 - SISTEMAS DE EXAUSTÃO DE COZINHAS INDUSTRIAIS
 
-LAUDO DE RECUPERABILIDADE
+### LAUDO DE RECUPERABILIDADE
 
 - RECLASSIFICAÇÃO DE MONTA
 
