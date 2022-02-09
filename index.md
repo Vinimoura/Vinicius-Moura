@@ -20,10 +20,10 @@ O profissional atua na abordagem  multidisciplinar com foco no atendimento consu
 
 _DIFERENCIAL Metodo Avaliativo de Pocesso com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida._
 
-
-
-Entre no M.A.P.A [LinkTree The Bros co] (https://linktr.ee/TheBrosMech/) 
 ```
+_DIFERENCIAL Metodo Avaliativo de Pocesso com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida._
+
+Entre no M.A.P.A [LinkTree The Bros co](https://linktr.ee/TheBrosMech/) 
 
 ## Áreas de Atuação 
 
