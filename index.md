@@ -22,7 +22,7 @@ _DIFERENCIAL Metodo Avaliativo de Pocesso com Acompanhamento (M.A.P.A), gestão 
 
 
 
-![LinkTree The Bros co] (https://linktr.ee/TheBrosMech) 
+Entre no M.A.P.A [LinkTree The Bros co] (https://linktr.ee/TheBrosMech/) 
 ```
 
 ## Áreas de Atuação 
