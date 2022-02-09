@@ -6,7 +6,7 @@ Agente Autonomo de Engenharia
 
 O profissional atua na abordagem  multidisciplinar com foco no atendimento consultivo aos clientes.
 
-"Facilitar a aderencia das oportunidades de negócio é o objetivo. Entrego aplicação estrategica com mentalidade de melhoria contínua nos procedimentos, junto do suporte da equipe técnica, proponho estabelecer programas de Lean Service e Responsabilidade Social Corporativa."
+> "Facilitar a aderencia das oportunidades de negócio é o objetivo. Entrego aplicação estrategica com mentalidade de melhoria contínua nos procedimentos, junto do suporte da equipe técnica, proponho estabelecer programas de Lean Service e Responsabilidade Social Corporativa."
 
 VISÃO - Representação exemplar de contratantes com designio na excelencia.
 
