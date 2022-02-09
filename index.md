@@ -1,6 +1,6 @@
 # Portifolio Engenheiro Vinicius Mendonça de Moura
 
-![Vinicius] <img src="https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg" width="60">
+<img src="https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg" width="100">
 
 Agente Autonomo de Engenharia 
 
