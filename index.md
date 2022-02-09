@@ -1,26 +1,25 @@
 ## Portifolio Engenheiro Vinicius Mendonça de Moura
-You can use the [editor on GitHub](https://github.com/Vinimoura/viniciusdemoura/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Agente Autonomo de Engenharia 
 
-### Markdown
+### Introdução
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O profissional atua na abordagem  multidisciplinar com foco no atendimento consultivo aos clientes.
+
+> "Facilitar a aderencia das oportunidades de negócio é o objetivo. Entrego aplicação estrategica com mentalidade de melhoria contínua nos procedimentos, junto do suporte da equipe técnica, proponho estabelecer programas de Lean Service e Responsabilidade Social Corporativa."
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- VISÃO  Representação de contratantes com excelencia.
 
-- Bulleted
-- List
+- MISSÃO Oferecer soluções de alta eficiencia organizacional para as empresas cumprirem suas rotinas com qualidade.
 
-1. Numbered
-2. List
+- VALORES Diligencia, Conformidade, Confiança, Segurança.
 
-**Bold** and _Italic_ and `Code` text
+_DIFERENCIAL Metodo Avaliativo de Pocesso com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida._
+
+
+
 
 [Link](url) and ![Image](src)
 ```
