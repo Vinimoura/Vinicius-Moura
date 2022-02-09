@@ -1,6 +1,6 @@
 # Portifolio Engenheiro Vinicius Mendonça de Moura
 
-![Vinicius](https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg = 250x250)
+![Vinicius](https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg {width=40px height=400px})
 
 <img src="https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg" width="48">
 
