@@ -2,6 +2,8 @@
 
 ![Vinicius](https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg)
 
+<img src="https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg" width="48">
+
 Agente Autonomo de Engenharia 
 
 ### Introdução
