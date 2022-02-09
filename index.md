@@ -1,4 +1,6 @@
-## Portifolio Engenheiro Vinicius Mendonça de Moura
+# Portifolio Engenheiro Vinicius Mendonça de Moura
+
+![Vinicius](https://github.com/Vinimoura/viniciusdemoura/blob/gh-pages/Foto%20Vinicius.jpeg)
 
 Agente Autonomo de Engenharia 
 
@@ -20,16 +22,58 @@ _DIFERENCIAL Metodo Avaliativo de Pocesso com Acompanhamento (M.A.P.A), gestão 
 
 
 
-
-[Link](url) and ![Image](src)
+[LinkTree The Bros co](https://linktr.ee/TheBrosMech) 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Áreas de Atuação 
 
-### Jekyll Themes
+Instalações Industriais, Prediais e de Máquinas; 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinimoura/viniciusdemoura/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Prevenção e Combate ao Incêndio; 
 
-### Support or Contact
+Gestão comercial e logistica de suply chain;
+ 
+Emissão de Laudos Técnicos e ART;
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Processos Licitatórios.
+
+## Serviços 
+
+RESPONSABILIDADE TÉCNICA 
+
+- EMPRESARIAL
+- DESMANCHE
+
+CONSULTORIA E ASSESSORIA
+
+- PPCI - PROJETO PREVENTIVO CONTRA INCENDIO
+- LICITAÇÕES PÚBLICAS E PREGÕES
+
+PERÍCIAS & ASSISTENTE TÉCNICO JUDICIAL
+
+LAUDO TÉCNICO E PLANO DE MANUTENÇÃO COM EMISSÃO DE ART
+
+- PMOC - PLANO MANUTENÇÃO OPERAÇAO E CONTROLE
+- MÁQUINAS PESADAS
+- BRINQUEDOS E PLAYGROUNDS
+- DUTOS E TUBULAÇOES HIDRAULICAS  
+- SISTEMAS DE EXAUSTÃO DE COZINHAS INDUSTRIAIS
+
+LAUDO DE RECUPERABILIDADE
+
+- RECLASSIFICAÇÃO DE MONTA
+
+
+### Normas 
+
+Atendimentos as seguintes Normas ISO e ABNT 
+
+ISO 55000 - Gestão e Ativos
+
+ABNT NBR 26000 - Diretrizes Sobre Responsabilidade Social
+
+NR-12 – Segurança no Trabalho em Máquinas e Equipamentos
+
+NR-13 - Inspeção e Laudo Técnico
+
+NR-23 – Proteção Contra Incêndio;
