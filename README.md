@@ -14,7 +14,7 @@ MISSÃO - Oferecer soluções de alta eficiencia organizacional para as empresas
 
 VALORES - Diligencia, Conformidade, Confiança, Segurança.
 
-DIFERENCIAL - Metodo Avaliativo de Pocesso com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida. 
+DIFERENCIAL - Modelagem Avaliativa de Pocesso com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida. 
 
 ## Áreas de Atuação 
 
