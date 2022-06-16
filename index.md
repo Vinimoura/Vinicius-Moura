@@ -2,6 +2,10 @@
 
 Agente Autonomo de Engenharia 
 
+<p align = "center">
+ <img src = "docs/assets/style.scss">
+</p>
+
 ## Introdução
 
 O profissional atua na abordagem  multidisciplinar com foco no atendimento consultivo aos clientes.
