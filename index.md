@@ -1,5 +1,5 @@
 # Portifolio Engenheiro Vinicius Mendonça de Moura
-
+![Photo CV](./assets/Foto de CV.png)
 Agente Autonomo de Engenharia 
 
 ## Introdução
