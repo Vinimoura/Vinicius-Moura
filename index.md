@@ -1,10 +1,10 @@
 # Portfólio 
-Engº Vinicius de Moura
-Agente Autonomo de Engenharia 
+Engº Vinicius de Moura 
 
 <p align = "center">
- <img src = "docs/assets/Foto de CV.png" width="200" height="200">
+ <img src = "docs/assets/Foto de CV.png" width="200" height="200"> 
 </p>
+<p align = "center"> <sub> Agente Autonomo de Engenharia</sub> </p>
 
 ## Introdução
 
