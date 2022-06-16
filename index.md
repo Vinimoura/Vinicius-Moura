@@ -3,7 +3,7 @@
 Agente Autonomo de Engenharia 
 
 <p align = "center">
- <img src = "docs/assets/Foto de CV.png">
+ <img src = "docs/assets/Foto de CV.png" width="320" height="205">
 </p>
 
 ## Introdução
