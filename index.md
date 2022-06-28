@@ -13,7 +13,9 @@ Este é um Blog com informações a respeito de Engenharia Mecânica, Permacultu
 
 ```markdown
 
-"Facilitar a aderencia das oportunidades de negócio é o objetivo. Entrego aplicação estrategica com mentalidade de melhoria contínua nos procedimentos, junto do suporte da equipe técnica, proponho estabelecer programas de Lean Service e Responsabilidade Social Corporativa."
+"Facilitar a aderencia das oportunidades de negócio é o objetivo.
+Entrego aplicação estrategica com mentalidade de melhoria contínua nos procedimentos, 
+junto do suporte da equipe técnica, proponho estabelecer programas de Lean Service e Responsabilidade Social Corporativa."
 
 ```
 
