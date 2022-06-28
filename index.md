@@ -17,6 +17,7 @@ Este é um Blog com informações a respeito de Engenharia Mecânica, Permacultu
 
 
 ```
+>
 _DIFERENCIAL Modelagem Avaliativa de Processo com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida._
 
 Entre no [M.A.P.A](https://linktr.ee/TheBrosMech/) 
