@@ -10,14 +10,14 @@ Engº Vinicius de Moura
 
 Este é um Blog com informações a respeito de Engenharia Mecânica, Permacultura e Agroecologia
 
-> 
+
 ```markdown
 
 "Facilitar a aderencia das oportunidades de negócio é o objetivo. Entrego aplicação estrategica com mentalidade de melhoria contínua nos procedimentos, junto do suporte da equipe técnica, proponho estabelecer programas de Lean Service e Responsabilidade Social Corporativa."
 
 
 ```
->
+
 _DIFERENCIAL Modelagem Avaliativa de Processo com Acompanhamento (M.A.P.A), gestão da manutenção do desenvolvimento a implementação de programas, bem como ao longo do seu ciclo de vida._
 
 Entre no [M.A.P.A](https://linktr.ee/TheBrosMech/) 
