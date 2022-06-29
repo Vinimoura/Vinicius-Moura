@@ -39,6 +39,11 @@ Entre no [M.A.P.A](https://linktr.ee/TheBrosMech/)
 
 5. Processos Licitatórios.
 
+6. Engenheiro Mecânico Técnico Judicial 
+   - Perito            
+   - Assistente 
+
+
 ### Normas 
 
 Atendimentos as seguintes Normas ISO e ABNT 
